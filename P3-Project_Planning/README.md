@@ -9,11 +9,17 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* Wire frame of fizzybubbly home page: ![Wire Frame of fizzybubbly home page](/wire frame of fizzybubbly - 01 home page)
+* Wire frame of fizzybubbly favorites and reviews: ![Wire Frame of fizzybubbly favorites and reviews](/wire frame of fizzybubbly - 02 favorites and reviews)
+* Wire frame of fizzybubbly add and edit: ![Wire Frame of fizzybubbly add and edit](/wire frame of fizzybubbly - 03 add and edit)
+* Wire frame of fizzybubbly selected seltzer 1: ![Wire Frame of fizzybubbly selected seltzer 1](/wire frame of fizzybubbly - 04 selected seltzer 1)
 
 ### Project Tracker
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello board](https://trello.com/b/bypjBxmR/epics-stories)
 
 ### Project Repo Link
 
 Include a link to your project on GitHub.
+[GitHib](https://github.com/LaunchCodeLiftoffProjects/fizzybubbly)
