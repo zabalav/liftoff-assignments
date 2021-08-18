@@ -9,10 +9,10 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-* Wire frame of fizzybubbly home page: ![Wire Frame of fizzybubbly home page](/wire frame of fizzybubbly - 01 home page)
-* Wire frame of fizzybubbly favorites and reviews: ![Wire Frame of fizzybubbly favorites and reviews](/wire frame of fizzybubbly - 02 favorites and reviews)
-* Wire frame of fizzybubbly add and edit: ![Wire Frame of fizzybubbly add and edit](/wire frame of fizzybubbly - 03 add and edit)
-* Wire frame of fizzybubbly selected seltzer 1: ![Wire Frame of fizzybubbly selected seltzer 1](/wire frame of fizzybubbly - 04 selected seltzer 1)
+* Wire frame of fizzybubbly home page: ![Wire Frame of fizzybubbly home page](/images/wire_frame_of_fizzybubbly_-_01_home_page.png)
+* Wire frame of fizzybubbly favorites and reviews: ![Wire Frame of fizzybubbly favorites and reviews](/images/wire_frame_of_fizzybubbly_-_02_favorites_and_reviews.png)
+* Wire frame of fizzybubbly add and edit: ![Wire Frame of fizzybubbly add and edit](/images/wire_frame_ of_fizzybubbly_-_03_add_and_edit.png)
+* Wire frame of fizzybubbly selected seltzer 1: ![Wire Frame of fizzybubbly selected seltzer 1](/images/wire_frame_of_fizzybubbly_-_04_selected_seltzer_1.png)
 
 ### Project Tracker
 
