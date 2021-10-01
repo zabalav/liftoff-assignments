@@ -8,4 +8,4 @@ We want to you to create a set of presentation slides summarizing your project.
 
 ### Presentation
 Upload a .PDF of your presentation here for review.
-[Presentation PDF of fizzybubbly] (https://docs.google.com/presentation/d/1jShVAphL3CYg0NRDDOLpXT5DZAd1WrLJ2rZ_a99puqg/edit#slide=id.p)
+[Presentation PDF of fizzybubbly] (https://docs.google.com/presentation/d/1jShVAphL3CYg0NRDDOLpXT5DZAd1WrLJ2rZ_a99puqg/edit#slide=id.p) (https://docs.google.com/presentation/d/1jShVAphL3CYg0NRDDOLpXT5DZAd1WrLJ2rZ_a99puqg/edit#slide=id.p)
